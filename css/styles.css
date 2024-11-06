@@ -1,0 +1,35 @@
+body {
+	color: #000000;
+	font: 12px Tahoma, sans-serif;
+	background-color: #ffffff;
+	border-top: 5px solid #ffffff;
+	margin: 0;
+    font-size: xxx-large;
+	text-align: center;
+}
+button {
+	color: #fff;
+	background-color: #29c5e6;
+	border: none;
+	height: 32px;
+	font-family: 'Oswald', sans-serif;
+}
+p {
+	margin: 20px 0;
+}
+input
+{ 
+    padding: 5px 5px; line-height: 0px; 
+    font-size: xxx-large;
+}
+br {
+    display: block;
+    margin: 10px 0;
+    line-height:22px;
+    content: " ";
+ }
+ textarea
+ {
+	font-size:xxx-large;
+	align-self: left;
+ }
